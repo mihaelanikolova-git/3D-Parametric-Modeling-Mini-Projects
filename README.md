@@ -9,6 +9,8 @@ SolidWorks mini-projects, designed during my Engeneering Drawing course in Polit
 
 -Basic airplane model
 
+https://drive.google.com/drive/folders/1LHmrBTmtSz7Y3UWXNYsk7UKPFIXeojjx?usp=sharing
+
 -Other parts and assemblies
 
 Most assignments were drawn HD , with respect to ISO standards and conventions ( mountings,fittings, dimensional and geometrical tolerances).
