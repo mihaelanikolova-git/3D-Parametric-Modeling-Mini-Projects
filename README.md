@@ -7,6 +7,8 @@ SolidWorks mini-projects, designed during my Engeneering Drawing course in Polit
 
 -Transmission device
 
+https://drive.google.com/drive/folders/1g7PB57EfM_4AWNgVlk02fwaeI3Fah7f8?usp=sharing
+
 -Basic airplane model
 
 https://drive.google.com/drive/folders/1LHmrBTmtSz7Y3UWXNYsk7UKPFIXeojjx?usp=sharing
